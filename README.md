@@ -1,0 +1,2 @@
+# kakegurui_bot
+DENEME BOTU OZEL SUNUCU BOTU
